@@ -15,8 +15,8 @@ class Persona():
         self.__genero = h
 
     # getters 
-    def verNombre(self): 
-        return self.__nombre
+
+
     def verCedula(self):
         return self.__cedula
     def verGenero(self):
